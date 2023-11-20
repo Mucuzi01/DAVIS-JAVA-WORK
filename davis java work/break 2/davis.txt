@@ -1,0 +1,9 @@
+public class davis{
+public static void main (String[]args)
+{for(int i=0;i>8;--)
+    { if (i==5){
+        break;
+    }
+    System.out.println(i);
+    }}}
+    
